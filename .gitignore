@@ -2,3 +2,4 @@
 .vscode
 logs
 lesson7/homework/model
+training_checkpoints
