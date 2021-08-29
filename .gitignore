@@ -3,3 +3,5 @@
 logs
 lesson7/homework/model
 training_checkpoints
+env.py
+__pycache__
